@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Error Handling</title>
+</head>
+<body>
+    <script>
+        function divide(a,b){
+            let result = a/b;
+            try{
+                if(b == 0)
+                {
+                    throw result;
+                }
+                document.write('<br> '+result)
+            }
+            catch(e){
+                document.write('<br> error caught: '+e.message);
+            }
+        }
+        divide(5,0);
+    </script>
+</body>
+</html>
