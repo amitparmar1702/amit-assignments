@@ -1,0 +1,46 @@
+{
+  "feedbacks": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "phone": "1234567890",
+      "comment": "Great service!",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "phone": "0987654321",
+      "comment": "Room was okay, but noisy.",
+      "rating": 3
+    },
+    {
+      "id": "1766395170445",
+      "name": "Alice Web",
+      "phone": "1234567890",
+      "comment": "Testing the system.",
+      "rating": 5
+    },
+    {
+      "id": "1766395343306",
+      "name": "lllllll",
+      "phone": "1234567891",
+      "comment": "noinuion",
+      "rating": 2
+    },
+    {
+      "id": "1766395366987",
+      "name": "kkkkkk",
+      "phone": "9998866652",
+      "comment": "onbib",
+      "rating": 3
+    },
+    {
+      "id": "1766396361889",
+      "name": "aaa",
+      "phone": "9988774455",
+      "comment": "dfrf",
+      "rating": 3
+    }
+  ]
+}
